@@ -14,16 +14,16 @@ A clear and concise description of the feature or improvement you’d like to se
 
 ## Problem Statement
 
-Describe the problem or limitation that this feature would solve.  
+Describe the problem or limitation that this feature would solve.
 Why is it important? How would it help users or developers?
 
 ---
 
 ## Proposed Solution
 
-Describe your idea in detail:  
-- How should it work?  
-- What changes would be needed?  
+Describe your idea in detail:
+- How should it work?
+- What changes would be needed?
 - Any specific requirements or constraints?
 
 ---

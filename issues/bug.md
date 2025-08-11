@@ -8,7 +8,7 @@ assignees: []
 
 ## Description
 
-A clear and concise description of the problem.  
+A clear and concise description of the problem.
 Explain what you expected to happen and what actually happened.
 
 ---
@@ -25,7 +25,7 @@ Provide exact steps so others can replicate the issue. For example:
 
 ## Screenshots / Logs
 
-If applicable, add screenshots, terminal output, or log snippets that help explain the problem.  
+If applicable, add screenshots, terminal output, or log snippets that help explain the problem.
 For long logs, please provide them as a **link** or attach them as a file.
 
 ---
