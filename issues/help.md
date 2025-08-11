@@ -8,7 +8,7 @@ assignees: []
 
 ## Problem Description
 
-Describe the issue you need help with.  
+Describe the issue you need help with.
 What are you trying to achieve, and what is happening instead?
 
 ---

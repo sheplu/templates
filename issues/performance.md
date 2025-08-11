@@ -8,29 +8,29 @@ assignees: []
 
 ## Description
 
-Describe the performance problem:  
-- What is slow or inefficient?  
-- When does it happen? (e.g., startup, during a specific operation, under heavy load)  
+Describe the performance problem:
+- What is slow or inefficient?
+- When does it happen? (e.g., startup, during a specific operation, under heavy load)
 
 ---
 
 ## Expected vs Actual Performance
 
-- **Expected**: What performance should it have? (e.g., “This CLI command should finish in under 2 seconds”)  
-- **Actual**: What are you seeing? (e.g., “Takes 12–15 seconds on average”)  
+- **Expected**: What performance should it have? (e.g., “This CLI command should finish in under 2 seconds”)
+- **Actual**: What are you seeing? (e.g., “Takes 12–15 seconds on average”)
 
-Include measurements if possible:  
-- Duration in seconds/ms  
-- Memory usage (MB/GB)  
-- CPU usage (%)  
+Include measurements if possible:
+- Duration in seconds/ms
+- Memory usage (MB/GB)
+- CPU usage (%)
 - Other metrics (e.g., FPS, request throughput, etc.)
 
 ---
 
 ## Steps to Reproduce
 
-1. Run `command` / Perform action  
-2. Observe slow behavior or high resource usage  
+1. Run `command` / Perform action
+2. Observe slow behavior or high resource usage
 
 ---
 
@@ -46,7 +46,7 @@ Include measurements if possible:
 
 ## Additional Context
 
-Any profiling results, benchmarks, logs, or diagrams that might help identify the problem.  
+Any profiling results, benchmarks, logs, or diagrams that might help identify the problem.
 
 ---
 

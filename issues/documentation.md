@@ -8,28 +8,28 @@ assignees: []
 
 ## Description
 
-Clearly describe the documentation issue:  
-- Is it missing?  
-- Is it outdated?  
-- Is it unclear or incorrect?  
+Clearly describe the documentation issue:
+- Is it missing?
+- Is it outdated?
+- Is it unclear or incorrect?
 
 ---
 
 ## Location
 
-Where is the issue found? (Select or fill in as needed)  
-- [ ] README  
-- [ ] API Reference  
-- [ ] CLI Help / Man Page  
-- [ ] Tutorials / Guides  
-- [ ] Comments in Code  
-- [ ] Other: *(specify)*  
+Where is the issue found? (Select or fill in as needed)
+- [ ] README
+- [ ] API Reference
+- [ ] CLI Help / Man Page
+- [ ] Tutorials / Guides
+- [ ] Comments in Code
+- [ ] Other: *(specify)*
 
 ---
 
 ## Suggested Changes
 
-Describe what should be updated or added.  
+Describe what should be updated or added.
 If possible, include the corrected text, examples, or links.
 
 ---

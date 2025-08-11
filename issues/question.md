@@ -8,16 +8,16 @@ assignees: []
 
 ## Question
 
-What do you want to know?  
+What do you want to know?
 Be as specific as possible.
 
 ---
 
 ## Context
 
-Why are you asking this question?  
-- Is it about a design choice?  
-- Is it about intended behavior?  
+Why are you asking this question?
+- Is it about a design choice?
+- Is it about intended behavior?
 - Is it about how something works internally?
 
 ---
