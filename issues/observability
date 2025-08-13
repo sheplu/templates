@@ -1,0 +1,53 @@
+---
+name: Observability / Telemetry Request
+about: Request metrics, logs, traces, events, or dashboards/alerts
+title: "[OBS] Short description"
+labels: [observability]
+assignees: []
+---
+
+## Objective
+What question should telemetry answer? (reliability, performance, usage, cost)
+
+---
+
+## Signals Needed
+- **Metrics:** name(s), unit, type (counter/gauge/histogram), labels/tags (keep cardinality low)
+- **Logs:** schema/fields, severity, sampling/retention
+- **Traces:** spans, attributes, propagation, sampling rate
+- **Events:** schema, volume expectations
+
+---
+
+## Scope & Sources
+Components/services affected, boundaries, dependency visibility.
+
+---
+
+## SLOs & Alerts
+- SLIs/SLO targets (e.g., availability, latency, error rate)
+- Alert rules, thresholds, paging policy, runbooks
+
+---
+
+## Privacy & Compliance
+PII/PHI presence, redaction policy, data retention, access controls.
+
+---
+
+## Cost Considerations
+Sampling strategy, aggregation/windowing, storage retention.
+
+---
+
+## Dashboards & Ownership
+Dashboards to create/update, team owner, on-call rotation link.
+
+---
+
+### Checklist
+- [ ] Signals defined with names/units
+- [ ] Cardinality reviewed
+- [ ] SLOs and alerts specified
+- [ ] Privacy/compliance assessed
+- [ ] Cost controls considered
